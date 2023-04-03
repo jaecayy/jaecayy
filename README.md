@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaecayy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack MERN Development
+- 🌱 I’m a Software Engineer (Java Backend Developer)
 - 📫 How to reach me jiteshkhatri2000@gmail.com
 
 <!---
